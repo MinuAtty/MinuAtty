@@ -1,4 +1,4 @@
-[![MasterHead](https://justtotaltech.com/wp-content/uploads/2021/07/Top-15-Machine-Learning-Tools-You-Should-Be-Aware-of.png)](https://minuatty.io)
+[![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)](https://minuatty.io)
 
 <h1 align="center">Hi 👋, I'm Minusha Attygala</h1>
 
