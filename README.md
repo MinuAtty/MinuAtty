@@ -34,6 +34,4 @@
 
 <br><br>
 
-![snake gif](https://github.com/MinuAtty/MinuAtty/blob/output/github-contribution-grid-snake.gif)
-
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+my+profile!;Enjoy+your+day+~" alt="Typing SVG" /></a></p>
