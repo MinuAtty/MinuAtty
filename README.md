@@ -43,7 +43,6 @@
 
 <p align="center">
   <a href="https://minuatty.io">
-    <img src="https://github.com/minusha attygala/minusha attygala/blob/output/github-contribution-grid-snake-dark.svg" alt=" ">
   </a>
 </p>
 
