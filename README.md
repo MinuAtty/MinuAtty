@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/MinuAtty"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="MinuAtty" /></a></p><br>
 
-<h2 align="center"> 🙇‍♀️ About me </h2> 
+<h2 align="center"> About me <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></h2> 
 <p align="center">I am an undergraduate student majoring in Data Science with a passion for uncovering hidden insights and patterns within data. My journey in data science began with a fascination for how data can be used to make informed decisions and solve real-world problems. 
 </p><br>
 
